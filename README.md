@@ -16,6 +16,7 @@ estado 2 = Pantalla de victoria (Mensaje ganador e invitación a volver a jugar)
 
 ### Inputs
 Barra espaciadora: Da inicio al juego
+![estado 0](comandoPA.IN.jpg)
 
 
 ENTER: Cumple la funcion de girar aleatoriamente los simbolos
